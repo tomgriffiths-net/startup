@@ -1,0 +1,10 @@
+{
+    "dependencies": {
+        "settings": 2
+    },
+    "id_name": "startup",
+    "version": 1,
+    "author": "tom",
+    "name": "Startup commands",
+    "description": ""
+}
